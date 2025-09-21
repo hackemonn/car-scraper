@@ -100,9 +100,11 @@ with open("cars_dataset.csv", "w", newline="", encoding="utf-8") as f:
             car_data["Location"] = clean_text(location_element.text.strip())
         except:
             car_data["Location"] = "Na"
-
+        #Na = Not available 
+        
         # Write row to CSV
         writer.writerow(car_data)
+
 
 
 print("Dataset complete: cars_dataset.csv")
