@@ -2,7 +2,7 @@
 
 A Python project to **collect and structure used car listings** focusing on Ford Focus cars in Budapest.  
 
-The project demonstrates **web scraping with Selenium** for JavaScript-rendered pages, **HTML parsing with BeautifulSoup**, and **data cleaning/export to CSV**.  
+The project demonstrates **web scraping with Selenium** for JavaScript-rendered pages, **HTML parsing with BeautifulSoup**, and **data cleaning/export to CSV** containing 520 data.  
 
 ---
 
