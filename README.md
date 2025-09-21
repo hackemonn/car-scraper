@@ -66,14 +66,12 @@ pip install -r requirements.txt
 
 4. **Collect listing URLs:**
 
-```bash
 cd src
 python collect_links.py
 
 
 5. **Scrape car data:**
 
-```bash
 cd src
 python scrape_data.py
 
