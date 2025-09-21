@@ -61,8 +61,7 @@ cd car-scraper
 
 pip install -r requirements.txt
 
-
-3. **Ensure ChromeDriver / BraveDriver path is correct in config.py or the script.**
+3. **Ensure ChromeDriver / GeckoDriver path is correct in config.py or the script.**
 
 4. **Scrape car data:**
 
