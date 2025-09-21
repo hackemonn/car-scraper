@@ -42,9 +42,9 @@ The project demonstrates **web scraping with Selenium** for JavaScript-rendered 
 
 ### Prerequisites
 
-- **Python 3.10+**
-- **Brave Browser or Chrome** installed
-- **ChromeDriver / BraveDriver** compatible with your browser version
+- **Python 3.9+**
+- **Chromium based browser or Firefox** installed
+- **ChromeDriver / GeckoDriver** compatible with your browser version
 - **Internet connection**
 
 ### Steps to Reproduce
