@@ -30,8 +30,7 @@ The project demonstrates **web scraping with Selenium** for JavaScript-rendered 
   - Number of doors (`Ajtók száma`)  
   - Seller location (`Location`)  
 
-> **Note:** All data is publicly available on the website. This project is **for educational and research purposes only**.  
-- Do **not** use this scraper for commercial purposes.  
+> **Note:** All data is publicly available on the website. This project is **for educational and research purposes only**.   
 - Respect the source website’s [Terms of Service](https://en.wikipedia.org/wiki/Terms_of_service) and any applicable laws.  
 - The author is **not responsible** for misuse of the code or data.  
 
