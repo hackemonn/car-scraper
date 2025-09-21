@@ -54,8 +54,8 @@ The project demonstrates **web scraping with Selenium** for JavaScript-rendered 
 ```bash
 1. **Clone the repository:**
 
-git clone https://github.com/<your-username>/car_scraper_project.git
-cd car_scraper_project
+git clone https://github.com/hackemonn/car-scraper.git
+cd car-scraper
 
 2. **Install dependencies:**
 
@@ -64,21 +64,14 @@ pip install -r requirements.txt
 
 3. **Ensure ChromeDriver / BraveDriver path is correct in config.py or the script.**
 
-4. **Collect listing URLs:**
-
-cd src
-python collect_links.py
-
-
-5. **Scrape car data:**
+4. **Scrape car data:**
 
 cd src
 python scrape_data.py
 
+Reads https://kocsi.com/, scrapes each listing, and saves to data/cars_dataset.csv.
 
-Reads data/links.csv, scrapes each listing, and saves to data/cars_dataset.csv.
-
-6. **View results:**
+5. **View results:**
 
 Open data/cars_dataset.csv in a UTF-8 compatible editor (e.g., VSCode, LibreOffice, Notepad++) to see the structured dataset.
 
